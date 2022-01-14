@@ -1,7 +1,3 @@
-# Bad-Bank
-MITxPRO project for second portfolio 
-
-
 # James Global Credit Union
 MIT "Bad Bank" project standalone files; make sure to explore GCU for the React App
 
