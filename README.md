@@ -3,6 +3,8 @@ MIT "Bad Bank" project standalone files; make sure to explore GCU for the React 
 
 Website Deployment on AWS S3 Bucket
 
+On GitHub, files are in Master branch.
+
 # <div align="center">Bad Bank</div>
 
 
