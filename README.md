@@ -10,7 +10,6 @@ On GitHub, files are in Master branch.
 
 ### <div align="center">Description</div>
 
-This capstone is a 3-tier full-stack architect using MERN (MongoDB, Express, React, JS & more).
 
 This project about Banking Application using Formik, React, API, JS and more.
 
