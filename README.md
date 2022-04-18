@@ -5,12 +5,12 @@ Website Deployment on AWS S3 Bucket
 
 On GitHub, files are in Master branch.
 
-This capstone is a 3-tier full-stack architect using MERN (MongoDB, Express, React, JS & more).
-
 # <div align="center">GCU = Crypto Currency + Blockchain</div>
 
 
 ### <div align="center">Description</div>
+
+This capstone is a 3-tier full-stack architect using MERN (MongoDB, Express, React, JS & more).
 
 This project about Banking Application using Formik, React, API, JS and more.
 
