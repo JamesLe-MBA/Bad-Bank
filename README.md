@@ -5,7 +5,7 @@ Website Deployment on AWS S3 Bucket
 
 On GitHub, files are in Master branch.
 
-# <div align="center">JLe GCU: Crypto Currency + Blockchain</div>
+# <div align="center">GCU = Crypto Currency + Blockchain</div>
 
 
 ### <div align="center">Description</div>
