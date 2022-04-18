@@ -10,6 +10,8 @@ On GitHub, files are in Master branch.
 
 ### <div align="center">Description</div>
 
+This project about Banking Application in 3 itear using MERN Stack, including JS MongoDB, Express, React, Node JS, Formik, & more.
+
 This project about Banking Application using Formik, React, API, JS and more.
 
 ### <div align="center">Instructions</div>
