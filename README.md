@@ -1,7 +1,7 @@
 # James Global Credit Union
 MIT "Bad Bank" project standalone files; make sure to explore GCU for the React App
 
-Website Deployment: on AWS S3 Bucket
+Website Deployment on AWS S3 Bucket
 
 On GitHub, files are in Master branch.
 
